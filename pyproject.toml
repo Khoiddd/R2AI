@@ -21,8 +21,8 @@ codabench = ["selenium>=4.30"]
 dev = ["requests>=2.32", "scipy>=1.14", "selenium>=4.30"]
 
 [project.urls]
-Repository = "https://github.com/khoind06/R2AI"
-Documentation = "https://github.com/khoind06/R2AI/tree/main/docs"
+Repository = "https://github.com/Khoiddd/R2AI"
+Documentation = "https://github.com/Khoiddd/R2AI/tree/main/docs"
 
 [project.scripts]
 vifinqa-build-index = "road2ai_vifinqa.build_index:main"
