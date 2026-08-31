@@ -11,7 +11,7 @@
 ## 2. Clone và môi trường Python
 
 ```powershell
-git clone https://github.com/hieulenho/Road2AI.git
+git clone https://github.com/Khoiddd/R2AI.git
 cd Road2AI
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
